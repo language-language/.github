@@ -1,3 +1,3 @@
-# Fox Lang
+# Language language
 
-Ease multi-language authoring by limiting interfaces to those that are both pure and commonplace. Non-traditional interfaces are trivially hand-written, composing the transpiled output
+Language is a language that lets you generate code for other languages. It's not really it's own language, but a set of awesome M4 macros!
